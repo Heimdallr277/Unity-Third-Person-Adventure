@@ -13,6 +13,10 @@ The game features exploration, platforming, environmental puzzles, interactive o
 - Health, inventory, and objective UI
 - Multi-level gameplay and enemy encounters
 
+## Gameplay Demo
+
+[Watch / Download Gameplay Demo](../../releases/latest/download/gameplay-demo.mp4)
+
 ## Download & Play
 
 Playable builds are available for Windows and macOS.
