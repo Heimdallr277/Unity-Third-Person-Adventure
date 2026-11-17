@@ -13,4 +13,10 @@ The game features exploration, platforming, environmental puzzles, interactive o
 - Health, inventory, and objective UI
 - Multi-level gameplay and enemy encounters
 
+## Download & Play
+
+Playable builds are available for Windows and macOS.
+
+🎮 [Download the Game](../../releases/latest)
+
 *This repository serves as a portfolio showcase.*
